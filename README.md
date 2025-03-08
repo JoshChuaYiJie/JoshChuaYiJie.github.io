@@ -175,8 +175,7 @@ sass:
 
 # Plugins
 plugins:
-  - jekyll-paginate
-  - jekyll-paginate-content
+  - jekyll-paginate-v2
 ```
 
 ## Setup

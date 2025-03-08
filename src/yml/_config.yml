@@ -46,8 +46,8 @@ sass:
 
 # Plugins
 plugins:
-  - jekyll-paginate
-  - jekyll-paginate-content
+plugins:
+  - jekyll-paginate-v2
 
 # Exclude my node related stuff
 exclude: [

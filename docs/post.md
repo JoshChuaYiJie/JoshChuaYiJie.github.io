@@ -241,7 +241,7 @@ Type: *boolean*
 
 To break your post into pages, set the property `paginate` to `true` and use the divider `--page-break--` where you want to break it.
 
-**Note:** The template uses the `jekyll-paginate-content`, which is [not supported for GitHub Pages](https://pages.github.com/versions/). If you need that feature, please deploy somewhere else like Netlify.
+**Note:** The template uses the `jekyll-paginate-v2` plugin, which is [not supported for GitHub Pages](https://pages.github.com/versions/). If you need that feature, please deploy somewhere else like Netlify.
 
 Example:
 
