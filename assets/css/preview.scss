@@ -1,10 +1,4 @@
+---
+---
 @use "preview";
 
-body {
-font-family: Arial, sans-serif;
-  color: preview.$primary-color; // Example: Using a variable from preview
-}
-
-.container {
-  @include preview.center; // Example: Using a mixin from preview
-}
