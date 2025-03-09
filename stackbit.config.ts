@@ -5,7 +5,7 @@ export default defineStackbitConfig({
   contentSources: [
     new GitContentSource({
       rootPath: __dirname,
-      contentDirs: ["_posts"], // Where your posts are stored
+      contentDirs: ["_posts"], // Directory where your posts are stored
       models: [
         {
           name: "Post",
