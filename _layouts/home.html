@@ -16,8 +16,6 @@ layout: main
 
 <main class="home {% if site.show_hero and (paginator.enabled == false or paginator.page == 1) %}no-padding{% endif %}" role="main">
     {% if site.show_hero and (paginator.enabled == false or paginator.page == 1) %}
-    Debug: show_hero = {{ site.show_hero }}, paginator.enabled = {{ paginator.enabled }}, paginator.page = {{ paginator.page }}
-
         <!-- Hero -->
         {% assign featured = posts.first %}
         <section class="hero" style="background-image: url({{ featured.image }})">
