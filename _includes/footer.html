@@ -6,11 +6,10 @@
         </a>
       {% endif %}
       {% if site.facebook_username %}
- {% if site.facebook_username %}
-  <a href="https://www.facebook.com/profile.php?id={{ site.facebook_username }}" title="Facebook">
-    <svg><use xlink:href="#icon-facebook"></use></svg>
-  </a>
-{% endif %}
+        <a href="https://www.facebook.com/profile.php?id={{ site.facebook_username }}" title="Facebook">
+        <svg><use xlink:href="#icon-facebook"></use></svg>
+      </a>
+    {% endif %}
       {% if site.twitter_username %}
         <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
           <svg><use xlink:href="#icon-twitter"></use></svg>
