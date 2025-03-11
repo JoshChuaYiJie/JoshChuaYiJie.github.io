@@ -107,6 +107,8 @@ exclude: [
   'README.md'
 ]
 
+# Theme
+version: v3.1.2
 
 # _config.yml
 future: true
