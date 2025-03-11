@@ -1,6 +1,6 @@
 ---
 layout: page
-menu: true
+menu: false
 date: 2025-03-11 15:09:48
 title: About
 permalink: /about/
