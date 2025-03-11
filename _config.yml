@@ -1,8 +1,7 @@
 # Site Settings
 name: JCYJ Blog
 title: Josh's website
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+description: Josh's websites
 tags:
   - blog
   - template
@@ -108,8 +107,6 @@ exclude: [
   'README.md'
 ]
 
-# Theme
-version: v3.1.2
 
 # _config.yml
 future: true
