@@ -1,15 +1,15 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
-position: The One
-bio: Bulletproof hacker passionate about leather clothes.
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+name: Josh
+display_name: Josh Chua Yi Jie
+position: One and Only
+bio: Absolute nerd with a passion for Googling solutions at 2 AM and pretending
+  it was part of the plan
+github_username: JoshChuaYiJie
+facebook_username: Josh Chua
+twitter_username: ""
+instagram_username: joshiwahwah
+linkedin_username: Josh Chua
+medium_username: ""
 ---
-
