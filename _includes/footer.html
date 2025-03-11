@@ -21,9 +21,8 @@
         </a>
       {% endif %}
         {% if site.instagram_username %}
-          <a href="https://www.instagram.com/{{ site.instagram_username | strip }}/" title="Instagram">
+          <a href="https://www.instagram.com/{{ site.instagram_username | strip }}" title="Instagram">
             <svg><use xlink:href="#icon-instagram"></use></svg>
-              <p>Instagram: {{ site.instagram_username }}</p>
           </a>
         {% endif %}
       {% if site.linkedin_username %}
