@@ -19,7 +19,8 @@ menu:
 
 email: joshchuayijie@gmail.com
 # See: https://disqus.com/
-disqus_username: joshsautomation
+#Your disqus username should be your shortname of your site
+disqus_username: JCYJ BLOG
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: mrbpglzb
