@@ -35,4 +35,4 @@ I﻿nterval fast march, a weekly tradition where we put heavy stuff in our bags 
 ## E﻿x Cocoon (I)
 
 F﻿irst time we were sent out to the fields. First night in we were given a ET-blade and stick to dig a shellscrape (a human sized hole). NOBODY slept since our shellscrape was never enough. Next day, woke up and used our compass to navigate tekong and did some firefights.\
-M﻿y most fond memory of Cocoon (I) was the PIT (pressure inumerent training), how it played out was unforgettable... Mid march back to the ferry terminal, we have already walke
+M﻿y most fond memory of Cocoon (I) was the PIT (pressure inumerent training), how it played out was unforgettable... Mid march back to the ferry terminal, we have already walked
